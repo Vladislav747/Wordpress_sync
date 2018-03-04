@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Wordpress_sync</string>
+    <string name="admob_banner_id">786</string>
+    <string name="no_results">0</string>
 </resources>
